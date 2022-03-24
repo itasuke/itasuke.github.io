@@ -1,0 +1,5 @@
+body::after {
+  content: "🗸 CSS";
+  display: block;
+  color: green;
+}
