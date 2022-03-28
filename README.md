@@ -1,1 +1,3 @@
-[公開ページ]( https://itasuke.github.io/ )
+- [index.html]( https://itasuke.github.io/ )
+- [plain.txt]( https://itasuke.github.io/plain.txt )
+- [sub/img.html]( https://itasuke.github.io/sub/img.html )
